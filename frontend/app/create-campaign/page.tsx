@@ -92,7 +92,7 @@ export default function CreateCampaign() {
             This page is only accessible to the platform owner. To create a campaign, please contact:
           </p>
           <a
-            href="mailto:anindyakanti04@gmail.com"
+            href="mailto:developer.adityamsr@gmail.com"
             className="text-blue-600 hover:text-blue-700 text-xl font-medium"
           >
             developer.adityamsr@gmail.com
