@@ -236,10 +236,10 @@ export default function Home() {
           <p className="mb-4">Contact us to start your crowdfunding journey today.</p>
           <p className="mb-6 text-lg font-semibold">📧 {" "}
             <a
-              href="mailto:anindyakanti04@gmail.com"
+              href="mailto:developer.adityamsr@gmail.com"
               className="text-blue-300 hover:text-blue-100 underline"
             >
-              anindyakanti04@gmail.com
+              developer.adityamsr@gmail.com
             </a>
           </p>
           <div className="mt-8 p-4 bg-red-500/10 border border-red-300 rounded-lg">
