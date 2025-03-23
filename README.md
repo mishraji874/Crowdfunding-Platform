@@ -28,7 +28,7 @@ A decentralized crowdfunding platform built on blockchain technology that allows
 
 1. Clone the repository
 ```bash
-git clone [your-repo-link]
+git clone https://github.com/mishraji874/Crowdfunding-Platform.git
 cd web3-crowd-funding
 ```
 
